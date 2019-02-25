@@ -1,2 +1,2 @@
-# milestones
-Repository to store the milestones for project
+# Milestones
+Repository to store the milestones for the project.
